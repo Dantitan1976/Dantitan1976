@@ -7,7 +7,7 @@
 
   
 <br>  
-
+<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/dramirez?1337Badge=off&UM6P=off" alt="dramirez's 42 stats" /></a> </p>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
