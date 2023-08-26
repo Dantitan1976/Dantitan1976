@@ -1,4 +1,5 @@
-### Hi there, I'm Daniel 👋
+<div align="center">
+<hl align="center"><b>Hi, I'm Daniel</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--
 **Dantitan1976/Dantitan1976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
